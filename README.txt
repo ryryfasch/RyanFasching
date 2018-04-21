@@ -1,4 +1,4 @@
-This is my personal webiste that has links to my Guthub, Facebook, and my Linkedin profile, 
+This is my personal webiste that has links to my Github, Facebook, and my Linkedin profile, 
 as well as a link to download my Resume
 
 Taken From Aerial by HTML5 UP
